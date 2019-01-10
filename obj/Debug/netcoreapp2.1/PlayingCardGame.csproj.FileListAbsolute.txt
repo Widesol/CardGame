@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\bin\Debug\netcoreapp2.1\PlayingCardGame.deps.json
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\bin\Debug\netcoreapp2.1\PlayingCardGame.runtimeconfig.json
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\bin\Debug\netcoreapp2.1\PlayingCardGame.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\bin\Debug\netcoreapp2.1\PlayingCardGame.dll
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\bin\Debug\netcoreapp2.1\PlayingCardGame.pdb
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.dll
+C:\Users\Administrator\source\repos\PlayingCardGame\PlayingCardGame\obj\Debug\netcoreapp2.1\PlayingCardGame.pdb
